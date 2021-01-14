@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/woodman/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/woodman/static/js/main.a71c8124.chunk.js",
+    "main.js.map": "/woodman/static/js/main.a71c8124.chunk.js.map",
+    "runtime-main.js": "/woodman/static/js/runtime-main.fc949a59.js",
+    "runtime-main.js.map": "/woodman/static/js/runtime-main.fc949a59.js.map",
+    "static/js/2.288786a5.chunk.js": "/woodman/static/js/2.288786a5.chunk.js",
+    "static/js/2.288786a5.chunk.js.map": "/woodman/static/js/2.288786a5.chunk.js.map",
+    "index.html": "/woodman/index.html",
+    "precache-manifest.7be011f17dc687977deccb08530bcb7e.js": "/woodman/precache-manifest.7be011f17dc687977deccb08530bcb7e.js",
+    "service-worker.js": "/woodman/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/woodman/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.288786a5.chunk.js.LICENSE.txt": "/woodman/static/js/2.288786a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc949a59.js",
+    "static/js/2.288786a5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a71c8124.chunk.js"
+  ]
+}
