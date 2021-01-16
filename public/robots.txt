@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
+# For the moment accepts requests from all on all pages.
+# TODO: sitemap ?
 User-agent: *
 Disallow:
