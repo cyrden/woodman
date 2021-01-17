@@ -19,7 +19,10 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-                Woodman
+              <div className="row">
+              <img src="img/icons/android-icon-48x48.png"/>
+              Woodman
+              </div>
             </a>{" "}
           </div>
 
@@ -30,22 +33,17 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#about" className="page-scroll">
-                  About
+                  A propos
+                </a>
+              </li>
+              <li>
+                <a href="#portfolio" className="page-scroll">
+                  Gallerie
                 </a>
               </li>
               <li>
                 <a href="#services" className="page-scroll">
                   Services
-                </a>
-              </li>
-              <li>
-                <a href="#portfolio" className="page-scroll">
-                  Gallery
-                </a>
-              </li>
-              <li>
-                <a href="#testimonials" className="page-scroll">
-                  Avis
                 </a>
               </li>
               <li>
